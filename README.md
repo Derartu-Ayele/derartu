@@ -1,4 +1,4 @@
-\# Sample Data Script
+# Sample Data Script
 
 
 
